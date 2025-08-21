@@ -1,0 +1,12 @@
+[
+  {
+    "text": "WiFi in Block A not working since 8pm",
+    "priority": "High",
+    "dept": "IT"
+  },
+  {
+    "text": "ID card not issued for new student",
+    "priority": "Medium",
+    "dept": "Admin"
+  }
+]

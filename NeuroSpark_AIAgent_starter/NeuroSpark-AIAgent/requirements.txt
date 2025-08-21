@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+sentence-transformers
+chromadb
+uvicorn
+fastapi
+python-dotenv
+pydantic

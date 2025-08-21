@@ -1,0 +1,4 @@
+1) Hook: Hi, I'm Ravi — NeuroSpark.
+2) Problem: Students face slow support and no tracking.
+3) Show: FAQ query -> answer (with citation). Ticket creation flow -> staff resolves -> status updates.
+4) Close: Future work, GitHub link, call to action.
